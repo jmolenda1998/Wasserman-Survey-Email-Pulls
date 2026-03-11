@@ -1,0 +1,8 @@
+SELECT distinct lth.email_addr, comp_name, lth.season_name, lth.event_name, lth.ticket_type
+FROM BSEDW.ARCHTICS_NEW.c_last_ticket_holder lth
+LEFT JOIN BSEDW.SFMC.unsubs u ON lth.email_addr = u.EMAILADDRESS
+WHERE lth.comp_name = 'Not Comp'
+    and lth.ticket_type not like '%Employee%'
+    and lth.season_name = 'Brooklyn Nets 2025-26 Regular Season'
+    AND u.EMAILADDRESS IS NULL
+limit 1500
