@@ -1,0 +1,1 @@
+Nets Partner emails to scrub found at this link: https://bseglobal-my.sharepoint.com/:x:/r/personal/aohara_bkse_com/_layouts/15/Doc.aspx?sourcedoc=%7B0ADD3283-243E-4CF1-99E9-C35D8129F1DD%7D&file=Nets%20partner%20Emails.xlsx&wdLOR=c23791292-9BDA-4C47-99B0-65A43BD848DB&fromShare=true&action=default&mobileredirect=true
